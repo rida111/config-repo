@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "4.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related local(defualt profile) APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
